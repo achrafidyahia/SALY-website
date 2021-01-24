@@ -1,0 +1,38 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  background-color: #0D243C;
+}
+
+.button{
+  width: 80px;
+  height: 30px;
+  margin-left: 45px;
+  background-color: #FF7F50;
+  border: 0px solid black;
+  border-radius: 30px;
+  font-family: 'Balsamiq Sans', cursive;
+  color: white;
+}
+.content h1{
+  font-size: 43px;
+  color: white;
+  font-family: 'Mukta Vaani', sans-serif;
+  padding-left: 45px;
+}
+.content h3{
+  font-family: 'Balsamiq Sans', cursive;
+  padding-left: 45px;
+  color: #ffffff;
+  opacity: 60%;
+}
+.nash{
+  color: white;
+}
+.doodle{
+  width: 140px;
+}
+.content{
+  background-image: url(images/Illustrations.png);
+  background-size: cover;
+}
